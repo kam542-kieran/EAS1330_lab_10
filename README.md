@@ -6,3 +6,4 @@
 **This text is bold**
 
 # added readme file
+This is a README file that I'm editing on my computer
