@@ -7,3 +7,5 @@
 
 # added readme file
 This is a README file that I'm editing on my computer
+
+1. Created a new repo on Github
